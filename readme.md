@@ -1,4 +1,4 @@
-# Maratona Explorer 
+# Linktree 2.0
 
 > Second Week (2.0)
 
